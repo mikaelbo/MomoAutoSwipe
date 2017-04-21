@@ -6,7 +6,7 @@ A simple iOS tweak that automatically swipes cards for you in Momo. Made for res
 
 ## Usage
 * Long press the like button to start automatically swiping right 
-* Long press the left button to automatically swipe left
+* Long press the dislike button to start automatically swiping left
 
 ## Installation
 Make sure you have [Theos](https://github.com/theos/theos) installed (guide found [here](http://iphonedevwiki.net/index.php/Theos/Setup)), with the `$THEOS` and `$THEOS_DEVICE_IP` variables configured. 
