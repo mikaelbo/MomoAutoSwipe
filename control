@@ -1,0 +1,9 @@
+Package: com.mikaelbo.momoautoswipe
+Name: MomoAutoSwipe
+Depends: mobilesubstrate, firmware(>= 8)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Auto swipe those cards!
+Maintainer: Mikaelbo
+Author: Mikaelbo
+Section: Tweaks
