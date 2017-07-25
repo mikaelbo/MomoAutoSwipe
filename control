@@ -4,6 +4,6 @@ Depends: mobilesubstrate, firmware(>= 8)
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Auto swipe those cards!
-Maintainer: Mikaelbo
-Author: Mikaelbo
+Maintainer: mbo42
+Author: mbo42
 Section: Tweaks
